@@ -12,5 +12,5 @@ Youre on your way to becoming the net cat master
 picoCTF{nEtCat_Mast3ry_3214be47} <---Solucion
 ```
 
-## Notas dicionales 
+## Notas adicionales 
 Aquí mediante el shell de pico(puede ser otro) nos conectamos al enlace que nos da pico, mediante el comando 'nc'

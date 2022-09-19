@@ -13,7 +13,7 @@ visfx7-picoctf@webshell:~$
 picoCTF{p}<---RESULTADO
 
 
-## Notas dicionales 
+## Notas adicionales 
 Un sistema de numeración hexadecimal es ideal para grandes sistemas digitales, ya que puede contener/representar valores binarios largos. Este sistema se conoce como base-16 porque se utiliza un total combinado de 16 símbolos (digitales y alfabéticos) del 0 al F para representarlo.
 
 Principalmente usamos el comando xxd para hacer un volcado hexadecimal de caracteres hexadecimales muestreados o revertir la acción indicada.
