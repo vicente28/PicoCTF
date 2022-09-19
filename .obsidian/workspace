@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "54a408bab7d96b38",
+    "type": "split",
+    "children": [
+      {
+        "id": "558fcbf1e94d6d7d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2019/strings it.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2a92a22c41e811a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1aa2dbb0611be03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90348f976478a30f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b746b4f6b95ad61e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aca10f097a9c0912",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6827814918abad7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "407df9da4b98163d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e69fc6bbcf842816",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2019/strings it.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b77062e8695108e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2019/strings it.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d004d038fc693751",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce460c3fc921fe40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2019/strings it.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "558fcbf1e94d6d7d",
+  "lastOpenFiles": [
+    "Plantilla.md",
+    "2019/strings it.md",
+    "2019/what's a net cat.md",
+    "2019/2Warm.md",
+    "2019/Warmed Up.md",
+    "2019/Lets Warm Up.md"
+  ]
+}
