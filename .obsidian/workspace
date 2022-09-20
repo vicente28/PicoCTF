@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2019/strings it.md",
+            "file": "2021/Magikarp Ground Mission.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019/strings it.md",
+                "file": "2021/Magikarp Ground Mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019/strings it.md",
+                "file": "2021/Magikarp Ground Mission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019/strings it.md"
+                "file": "2021/Magikarp Ground Mission.md"
               }
             }
           }
@@ -130,11 +130,15 @@
   },
   "active": "558fcbf1e94d6d7d",
   "lastOpenFiles": [
+    "2021/Tab, Tab, Attack.md",
+    "2021/Static ain't always noise.md",
+    "2021/Magikarp Ground Mission.md",
+    "2021/Nice netcat.md",
     "Plantilla.md",
-    "2019/strings it.md",
-    "2019/what's a net cat.md",
-    "2019/2Warm.md",
-    "2019/Warmed Up.md",
-    "2019/Lets Warm Up.md"
+    "2021/Wave a flag.md",
+    "2021/Python Wrangling.md",
+    "2021/Obedient Cat.md",
+    "2019/plumbing.md",
+    "2019/Based.md"
   ]
 }

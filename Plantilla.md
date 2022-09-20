@@ -9,4 +9,4 @@
 
 ```
 
-## Notas dicionales 
+## Notas adicionales 
