@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "558fcbf1e94d6d7d",
+        "id": "4ac9f01be60fbd50",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Plantilla.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plantilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Plantilla.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "558fcbf1e94d6d7d",
+  "active": "4ac9f01be60fbd50",
   "lastOpenFiles": [
-    "2021/Tab, Tab, Attack.md",
-    "2021/Nice netcat.md",
-    "2021/Wave a flag.md",
-    "2021/Obedient Cat.md",
-    "2021/Magikarp Ground Mission.md",
-    "2021/Static ain't always noise.md",
+    "BeginnerPicoMIni2022/PW Crack 3.md",
+    "BeginnerPicoMIni2022/PW Crack 2.md",
     "Plantilla.md",
-    "2021/Python Wrangling.md",
-    "2019/plumbing.md",
-    "2019/Based.md"
+    "BeginnerPicoMIni2022/PW Crack 1.md",
+    "BeginnerPicoMIni2022/Glitch Cat.md",
+    "BeginnerPicoMIni2022/fixme2.py.md",
+    "BeginnerPicoMIni2022/fixme1.py.md",
+    "BeginnerPicoMIni2022/Codebook.md",
+    "BeginnerPicoMIni2022/convertme.py.md",
+    "BeginnerPicoMIni2022/runme.py.md"
   ]
 }
