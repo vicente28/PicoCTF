@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "54a408bab7d96b38",
+    "id": "70db50d3cf7370ee",
     "type": "split",
     "children": [
       {
-        "id": "558fcbf1e94d6d7d",
+        "id": "016b523eb286e6d9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Plantilla.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b2a92a22c41e811a",
+    "id": "1c24cf67a73b3e48",
     "type": "split",
     "children": [
       {
-        "id": "f1aa2dbb0611be03",
+        "id": "9052e1c9814fe7f0",
         "type": "tabs",
         "children": [
           {
-            "id": "90348f976478a30f",
+            "id": "e598cd84f5bb5401",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "b746b4f6b95ad61e",
+            "id": "c63a73b03465c8b9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +46,7 @@
             }
           },
           {
-            "id": "aca10f097a9c0912",
+            "id": "e8f9089fc59a00c2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +60,19 @@
     "width": 300
   },
   "right": {
-    "id": "6827814918abad7e",
+    "id": "8a7c7090fa9204e4",
     "type": "split",
     "children": [
       {
-        "id": "407df9da4b98163d",
+        "id": "bd9c4d99df325a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "e69fc6bbcf842816",
+            "id": "ca2fea4f3d370822",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +84,18 @@
             }
           },
           {
-            "id": "b77062e8695108e8",
+            "id": "ebd92d417456f2d4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plantilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d004d038fc693751",
+            "id": "42a48d35b2854532",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,13 +106,11 @@
             }
           },
           {
-            "id": "ce460c3fc921fe40",
+            "id": "abd8cfafdbd53878",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Plantilla.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "558fcbf1e94d6d7d",
+  "active": "016b523eb286e6d9",
   "lastOpenFiles": [
-    "2021/Tab, Tab, Attack.md",
-    "2021/Nice netcat.md",
-    "2021/Wave a flag.md",
-    "2021/Obedient Cat.md",
-    "2021/Magikarp Ground Mission.md",
-    "2021/Static ain't always noise.md",
-    "Plantilla.md",
-    "2021/Python Wrangling.md",
-    "2019/plumbing.md",
-    "2019/Based.md"
+    "Client-side-again.md",
+    "picobrowser.md",
+    "plantilla.md",
+    "dont-use-client-side.md",
+    "logon.md",
+    "where are the robots.md",
+    "Insp3ctor.md"
   ]
 }
