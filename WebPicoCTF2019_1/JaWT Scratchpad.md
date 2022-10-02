@@ -39,7 +39,7 @@ Use 'sudo apt autoremove' to remove them.
 0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
                                                                                                                                                                                                                                            
 ┌──(kali㉿kali)-[~]
-└─$ john hash -w-/usr/share/wordlists/rockyou.txt
+└─$ john hash -w=/usr/share/wordlists/rockyou.txt
 picoCTF{jawt_was_just_what_you_thought_1ca14548}
                                                                                 
 

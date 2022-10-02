@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WebPicoCTF2019_1/JaWT Scratchpad.md",
+            "file": "WebPIcoCTF2021_1/Scavenger Hunt.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebPicoCTF2019_1/JaWT Scratchpad.md",
+                "file": "WebPIcoCTF2021_1/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebPicoCTF2019_1/JaWT Scratchpad.md",
+                "file": "WebPIcoCTF2021_1/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebPicoCTF2019_1/JaWT Scratchpad.md"
+                "file": "WebPIcoCTF2021_1/Scavenger Hunt.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "4ac9f01be60fbd50",
   "lastOpenFiles": [
-    "WebPicoCTF2019_1/Irish-Name-Repo 3.md",
-    "WebPicoCTF2019_1/JaWT Scratchpad.md",
-    "WebPicoCTF2019_1/Irish-Name-Repo 2.md",
-    "WebPicoCTF2019_1/Irish-Name-Repo 1.md",
+    "ForensicPicoCTF2019_1/m00nwalk.md",
     "Plantilla.md",
-    "BeginnerPicoMIni2022/PW Crack 3.md",
-    "BeginnerPicoMIni2022/PW Crack 2.md",
-    "BeginnerPicoMIni2022/PW Crack 1.md",
-    "BeginnerPicoMIni2022/Glitch Cat.md",
-    "BeginnerPicoMIni2022/fixme2.py.md"
+    "ForensicPicoCTF2019_1/What Lies Within.md",
+    "ForensicPicoCTF2019_1/extensions.md",
+    "WebPIcoCTF2021_1/Scavenger Hunt.md",
+    "WebPIcoCTF2021_1/Cookies.md",
+    "ForensicPicoCTF2019_1/shark on wire 1.md",
+    "ForensicPicoCTF2019_1/So Meta.md",
+    "ForensicPicoCTF2019_1/Glory of the Garden.md",
+    "WebPIcoCTF2021_1/GET aHEAD.md"
   ]
 }
