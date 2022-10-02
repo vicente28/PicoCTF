@@ -34,4 +34,4 @@ Here is a flag "picoCTF{more_than_m33ts_the_3y33dd2eEF5}"
 
 ## Notas adicionales 
 
-Un editor hexadecimal es un tipo de programa informático que permite a un usuario modificar archivos binarios. Los editores hexadecimales fueron diseñados para editar sectores de datos de disquetes o discos duros por lo que a veces se llaman "editores de sectores"
+Un editor hexadecimal es un tipo de programa informático que permite a un usuario modificar archivos binarios. Los editores hexadecimales fueron diseñados para editar sectores de datos de disquetes o discos duros por lo que a veces se llaman "editores de sectores".

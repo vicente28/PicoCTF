@@ -62,6 +62,8 @@ message.wav  Obsidian-0.15.9.AppImage  result.png
 ┌──(kali㉿kali)-[~/Downloads]
 └─$ open result.png 
 
+picoCTF{beep_boop_im_in_space}
 ```
 
 ## Notas adicionales 
+.

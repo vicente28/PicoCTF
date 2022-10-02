@@ -21,4 +21,4 @@ b1,rgb,lsb,xy       .. text: "picoCTF{h1d1ng_1n_th3_b1t5}"
 Podemos instalar zteg y utilizar para leer los metadatos 
 
 también ultilizar un decodificador  online de esteganografía, basta con subir la imagen y ya lo tenemos 
-https://stylesuxx.github.io/steganography/
+https://stylesuxx.github.io/steganography/.

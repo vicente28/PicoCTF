@@ -20,4 +20,4 @@ picoCTF{now_you_know_about_extensions}
 ```
 
 ## Notas adicionales 
-https://en.wikipedia.org/wiki/List_of_file_signatures
+https://en.wikipedia.org/wiki/List_of_file_signatures.

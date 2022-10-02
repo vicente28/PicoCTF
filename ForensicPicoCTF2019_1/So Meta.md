@@ -51,4 +51,4 @@ Megapixels                      : 0.360
 ```
 ## Notas adicionales 
 
-En general, un grupo de metadatos se refiere a un grupo de datos que describen el contenido informativo de un objeto al que se denomina recurso. El concepto de metadatos es análogo al uso de índices para localizar objetos en vez de datos
+En general, un grupo de metadatos se refiere a un grupo de datos que describen el contenido informativo de un objeto al que se denomina recurso. El concepto de metadatos es análogo al uso de índices para localizar objetos en vez de datos.
