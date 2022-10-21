@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "f4838eff9b1a9e25",
+        "id": "135e4364491d7bc0",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac9f01be60fbd50",
+            "id": "1ed0f872441c5ed7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ForensicPIcoCTF2021/Wireshark twoo twooo two twoo.md",
+                "file": "RetiosForensicPicoCTF_Tarea6/2022/Packets Primer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ace37655d1f8560",
+            "id": "d4ddf4b7c65c2f45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ForensicPIcoCTF2022/Sleuthkit Intro.md",
+                "file": "RetiosForensicPicoCTF_Tarea6/2022/Redaction gone wrong.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a478a9cc19f2690a",
+            "id": "30f82179040fee51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebPIcoCTF2021_1/Scavenger Hunt.md",
+                "file": "RetiosForensicPicoCTF_Tarea6/2022/St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebPIcoCTF2021_1/Scavenger Hunt.md",
+                "file": "RetiosForensicPicoCTF_Tarea6/2022/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebPIcoCTF2021_1/Scavenger Hunt.md",
+                "file": "RetiosForensicPicoCTF_Tarea6/2022/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebPIcoCTF2021_1/Scavenger Hunt.md"
+                "file": "RetiosForensicPicoCTF_Tarea6/2022/St3g0.md"
               }
             }
           }
@@ -164,17 +164,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a478a9cc19f2690a",
+  "active": "30f82179040fee51",
   "lastOpenFiles": [
-    "WebPIcoCTF2021_1/Cookies.md",
-    "WebPIcoCTF2021_1/GET aHEAD.md",
-    "WebPicoCTF2019_1/Irish-Name-Repo 3.md",
-    "WebPicoCTF2019_1/Irish-Name-Repo 2.md",
-    "WebPicoCTF2019_1/Irish-Name-Repo 1.md",
-    "WebPicoCTF2019_1/Client-side-again.md",
-    "WebPicoCTF2019_1/picobrowser.md",
-    "WebPicoCTF2019_1/dont-use-client-side.md",
-    "WebPicoCTF2019_1/logon.md",
-    "WebPicoCTF2019_1/where are the robots.md"
+    "Plantilla.md",
+    "RetiosForensicPicoCTF_Tarea6/2022/St3g0.md",
+    "RetiosForensicPicoCTF_Tarea6/2022/Redaction gone wrong.md",
+    "RetiosForensicPicoCTF_Tarea6/2022/Packets Primer.md",
+    "RetiosForensicPicoCTF_Tarea6/2022/Lookey here.md",
+    "RetiosForensicPicoCTF_Tarea6/2022/Enhance!.md",
+    "ForensicPIcoCTF2021/Wireshark twoo twooo two twoo.md",
+    "ForensicPIcoCTF2022/Sleuthkit Intro.md",
+    "ForensicPIcoCTF2022/Operation Oni.md",
+    "ForensicPIcoCTF2021/Information 1.md"
   ]
 }
