@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7338080a14d31b34",
+        "id": "c13552fb6f9de34a",
         "type": "tabs",
         "children": [
           {
-            "id": "5b0c60c78865b965",
+            "id": "27468234e49dc930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReversingPicoCTF2019/vault-door-6.md",
+                "file": "ReversingPicoCTF2019/asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReversingPicoCTF2019/vault-door-6.md",
+                "file": "ReversingPicoCTF2019/asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReversingPicoCTF2019/vault-door-6.md",
+                "file": "ReversingPicoCTF2019/asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReversingPicoCTF2019/vault-door-6.md"
+                "file": "ReversingPicoCTF2019/asm3.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b0c60c78865b965",
+  "active": "27468234e49dc930",
   "lastOpenFiles": [
+    "ReversingPicoCTF2019/asm4.md",
+    "ReversingPicoCTF2019/Untitled.md",
+    "Plantilla.md",
+    "ReversingPicoCTF2019/asm3.md",
+    "ReversingPicoCTF2019/asm2.md",
+    "ReversingPicoCTF2019/asm1.md",
+    "ReversingPicoCTF2019/vault-door-6.md",
     "ReversingPicoCTF2019/vault-door-4.md",
     "ReversingPicoCTF2019/vault-door-5.md",
-    "ReversingPicoCTF2019/vault-door-6.md",
-    "Plantilla.md",
-    "ReversingPicoCTF2019/vault-door-3.md",
-    "ReversingPicoCTF2019/vault-door-1.md",
-    "ReversingPicoCTF2019/vault-door-training.md",
-    "CriptoPicoCTF2021-2022/2022/rail-fence.md",
-    "CriptoPicoCTF2021-2022/2022/Morsecode.md",
-    "CriptoPicoCTF2021-2022/2022/credstuff.md"
+    "ReversingPicoCTF2019/vault-door-3.md"
   ]
 }
