@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReversingPicoCTF2022/bloat.py.md",
+                "file": "BinaryExplotationPicoCTF2022/basic-file-exploit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c70dc786c3b00e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7e8651593f079c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BinaryExplotationPicoCTF2022/Buffer overflow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReversingPicoCTF2022/bloat.py.md",
+                "file": "BinaryExplotationPicoCTF2022/Buffer overflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReversingPicoCTF2022/bloat.py.md",
+                "file": "BinaryExplotationPicoCTF2022/Buffer overflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReversingPicoCTF2022/bloat.py.md"
+                "file": "BinaryExplotationPicoCTF2022/Buffer overflow.md"
               }
             }
           }
@@ -136,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "97931e9c10d2b9ec",
+  "active": "f7e8651593f079c7",
   "lastOpenFiles": [
-    "ReversingPicoCTF2022/unpackme.py.md",
-    "ReversingPicoCTF2022/patchme.py.md",
-    "ReversingPicoCTF2022/Safe Opener.md",
-    "ReversingPicoCTF2022/GDB Test Drive.md",
-    "ReversingPicoCTF2019/Need For Speed.md",
+    "BinaryExplotationPicoCTF2022/Buffer overflow 0.md",
+    "BinaryExplotationPicoCTF2022/basic-file-exploit.md",
+    "BinaryExplotationPicoCTF2022/Buffer overflow.md",
+    "plantilla.md",
     "ReversingPicoCTF2019/B1ll_Gat35.md",
-    "ReversingPicoCTF2022/file-run2.md",
-    "ReversingPicoCTF2022/file-run1.md",
-    "ReversingPicoCTF2022/bloat.py.md",
-    "plantilla.md"
+    "ReversingPicoCTF2019/asm1.md",
+    "ReversingPicoCTF2019/asm4.md",
+    "ReversingPicoCTF2019/asm3.md",
+    "ReversingPicoCTF2019/reverse_cipher.md",
+    "ReversingPicoCTF2019/Need For Speed.md"
   ]
 }
